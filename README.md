@@ -10,7 +10,7 @@
 
 - <p>Essa experiência de trabalho bimestral nos proporcionou a oportunidade de consolidar nossos conhecimentos em desenvolvimento web e aprender novas habilidades. Aprendemos sobre a importância do design responsivo, a utilização eficiente do Bootstrap Studio e a criação de uma experiência de usuário envolvente.</p>
 
-![FilmeVerso](https://github.com/gsfgabi/FilmeVerso/assets/89532466/636ac374-1551-4262-9890-fc0a35c7d78b)
+ <img src="https://drive.google.com/file/d/1JGTJALSFZOP0Z_bzy_WljWjhIAM2N9CW/view?usp=sharing" alt="FilmeVerso"/>
 
 <br>
 <p><i>Matéria ministrada pelo Professor Renan</i></p>
