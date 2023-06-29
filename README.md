@@ -16,11 +16,11 @@
 <p><i>Matéria ministrada pelo Professor Renan</i></p>
 <p><i>Participantes deste projeto foram:</i></p>
 
-- <p>Gabriella Freitas</p>
+- <a href ="https://github.com/gsfgabi"> 👩‍💻 Gabriella Freitas</a>
 
-- <p>Geovanna Cardoso</p>
+- <a href ="https://github.com/GiihCardoso"> 👩‍💻 Geovanna Cardoso</a>
 
-- <p>Kethellin Pereira</p>
+- <a href ="https://github.com/Kethellin"> 👩‍💻 Kethellin Pereira</a>
 
 <br>
 
